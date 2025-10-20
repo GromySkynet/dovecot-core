@@ -1,3 +1,4 @@
+/dovecot
 Makefile
 Makefile.in
 *.a
